@@ -7,6 +7,7 @@ $ratingsData = [
     ['id' => 3, 'rating' => 3, 'content' => 'Item with rating 3'],
     ['id' => 4, 'rating' => 4, 'content' => 'Item with rating 4'],
     ['id' => 5, 'rating' => 5, 'content' => 'Item with rating 5'],
+	['id' => 6, 'rating' => 6, 'content' => 'Item with rating 6'],
 ];
 
 
